@@ -1,4 +1,4 @@
-// Last updated: 15/03/2026, 13:25:58
+// Last updated: 15/03/2026, 13:26:57
 1class Solution {
 2    public double pow(double x,long n){
 3        if(n==0) return (double) 1;
